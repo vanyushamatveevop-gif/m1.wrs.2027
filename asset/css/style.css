@@ -18,7 +18,7 @@
     padding-bottom: 65px;
     padding-left: 130px;
     display: flex;
-    justify-content: space-evenly;
+    
 }
 
 .logo-img {
@@ -28,7 +28,7 @@
 }
 
 .navigation {
-    padding-left: 900px;
+    padding-left: 820px;
 }
 
 a {
@@ -94,7 +94,7 @@ a {
     width: 950px;
     height: 460px;
     margin-top: 85px;
-    margin-left: 25%;
+    margin-left: 15%;
     background: rgb(255, 156, 44);
 }
 
@@ -117,8 +117,9 @@ h2 {
 
 .about-juice-text {
     padding-top: 35px;
-    font-size: 19pt;
     padding-left: 100px;
+    font-size: 19pt;
+    text-align: center;
 }
 
 .juice-img {
@@ -131,7 +132,7 @@ h2 {
     width: 950px;
     height: 968px;
     margin-top: 70px;
-    margin-left: 25%;
+    margin-left: 15%;
 }
 
 .section-cards-1 {
@@ -252,24 +253,26 @@ h5 {
 }
 
 .dragon-text {
+    padding-left: 50px;
     width: 345px;
     height: 116px;
-    padding-top: 30px;
-    padding-left: 110px;
+    text-align: center;
+}
+
+.dragon-logo {
+    text-align: center;
 }
 
 h6 {
     color: white;
-    font-size: 20pt;
-    padding-left: 140px;
+    font-size: 15pt;
     padding-top: 20px;
 }
 
 .text-dragon {
     font-size: 15pt;
     padding-top: 20px;
-    padding-left: 100px;
-    padding-right: 100px;
+    text-align: center;
 }
 
 footer {
@@ -284,12 +287,12 @@ footer {
 .info {
     width: 300px;
     height: 150px;
-    margin-left: 780px;
     padding-top: 50px;
+    padding-left: 35%;
 }
 
-h6 {
-    font-size: 10pt;
+.text-info {
+    text-align: center;
 }
 
 .img-info {
